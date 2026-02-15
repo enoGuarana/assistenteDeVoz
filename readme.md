@@ -17,37 +17,5 @@ Este é um assistente virtual simples desenvolvido durante meu bootcamp, capaz d
 
 ## 🛠️ Como instalar
 1. Clone o repositório:
-   ```bas
-   Instale as bibliotecas necessárias:
-
-Bash
-pip install SpeechRecognition pyaudio
-Execute o programa:
-
-Bash
-python assistente.py
-🎤 Comandos Principais
-"Arnaldo, que horas são?"
-
-"Arnaldo, pesquise [assunto]"
-
-"Arnaldo, abrir bloco de notas"
-
-"Arnaldo, youtube"
-
-
----
-
-## 2. O arquivo `.gitignore` (Muito Importante!)
-Para o seu projeto ficar limpo no GitHub, crie um arquivo chamado `.gitignore` e escreva apenas isso dentro dele:
-```text
-__pycache__/
-*.pyc
-.venv/
-Isso evita que arquivos temporários do Python que só funcionam no seu PC sejam enviados para a internet.
-
-3. Descrição do Repositório (About)
-No campo de descrição do GitHub, use algo curto e chamativo:
-
-"Assistente virtual com reconhecimento de voz em Python que automatiza buscas no Google e abertura de programas nativos. 🚀"
+   ```bash
    git clone [https://github.com/seu-usuario/arnaldo-assistente.git](https://github.com/seu-usuario/arnaldo-assistente.git)
